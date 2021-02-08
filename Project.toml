@@ -3,7 +3,9 @@ authors = ["Mazen Alotaibi", "Jacob Zelko"]
 
 [deps]
 DrWatson = "634d3b9d-ee7a-5ddf-bec9-22491ea816e1"
-Flux = "587475ba-b771-5e3f-ad9e-33799f191a9c"
+PDFIO = "4d0d745f-9d9a-592e-8d18-1ad8a0f42b92"
+Taro = "61d0e4fa-4e73-5030-88a9-ae4c27b203dd"
+WordTokenizers = "796a5d58-b03d-544a-977e-18100b691f6e"
 
 [compat]
 julia = "1.5.0"
